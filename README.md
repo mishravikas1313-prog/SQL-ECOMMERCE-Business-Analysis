@@ -2,10 +2,13 @@
 
 A complete SQL project built using PostgreSQL to solve real-world business problems on the Brazilian Olist E-Commerce dataset.
 
+This project demonstrates SQL skills ranging from basic querying to advanced analytics using joins, CTEs, subqueries, window functions, and views.
+
+---
+
 ## 📂 Dataset.
 
 Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-This project demonstrates SQL skills ranging from basic querying to advanced analytics using joins, CTEs, subqueries, window functions, and views.
 
 ---
 
