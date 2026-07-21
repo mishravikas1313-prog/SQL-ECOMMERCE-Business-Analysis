@@ -92,7 +92,7 @@ Some of the analyses performed include:
 ```
 sql-ecommerce-business-analysis/
 │
-├── sql_queries.sql
+├── E_COMMERCE.sql
 ├── schema.png
 ├── README.md
 ├── LICENSE
@@ -127,5 +127,4 @@ This project helped strengthen my understanding of:
 
 **Vikas Mishra**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- GitHub: https://github.com/mishravikas1313-prog
