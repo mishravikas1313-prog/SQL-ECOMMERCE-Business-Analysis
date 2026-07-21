@@ -15,6 +15,12 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
+## 🗄 Database Schema
+
+![Database Schema](schema.png)
+
+---
+
 ## 📌 Project Objectives
 
 - Design a relational database schema
@@ -95,8 +101,7 @@ sql-ecommerce-business-analysis/
 ├── E_COMMERCE.sql
 ├── schema.png
 ├── README.md
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ---
